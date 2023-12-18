@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/i-link-di-fiore/static/css/main.0e2f7f56.css",
-    "main.js": "/i-link-di-fiore/static/js/main.fd23a849.js",
+    "main.css": "/i-link-di-fiore/static/css/main.3ce7d5a5.css",
+    "main.js": "/i-link-di-fiore/static/js/main.7ba8dcdc.js",
     "index.html": "/i-link-di-fiore/index.html",
-    "main.0e2f7f56.css.map": "/i-link-di-fiore/static/css/main.0e2f7f56.css.map",
-    "main.fd23a849.js.map": "/i-link-di-fiore/static/js/main.fd23a849.js.map"
+    "main.3ce7d5a5.css.map": "/i-link-di-fiore/static/css/main.3ce7d5a5.css.map",
+    "main.7ba8dcdc.js.map": "/i-link-di-fiore/static/js/main.7ba8dcdc.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e2f7f56.css",
-    "static/js/main.fd23a849.js"
+    "static/css/main.3ce7d5a5.css",
+    "static/js/main.7ba8dcdc.js"
   ]
 }
